@@ -1,2 +1,2 @@
-# Career_Milestones-
-Career Milestones 
+# Brand Statement
+Fully bilingual (English & French) Financial Analyst with FinTech certificate from the University of Toronto (4.0 GPA), CPA, CA designation and 8+ years of experience in financial services. Proven technical and leadership aptitude in data analysis, machine learning, financial modelling, forecasting and IFRS. Extensive prior collaboration with CFOs of listed North American companies and global clients managing $1tn in investor assets. Highly proficient in SQL, Python, Pandas, and API use. Passionate about obtaining unique, unapparent insights from data to drive decision-making and propel bottom-line growth. Pursuing a Solutions Engineer (Software Sales) opportunity to merge my passions for finance and data analysis, while helping clients solve complex problems.
